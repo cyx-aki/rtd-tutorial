@@ -1,4 +1,4 @@
-Welcome to WAIKII!
+Welcome to XML Learning Summary!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
